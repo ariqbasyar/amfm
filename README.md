@@ -1,7 +1,7 @@
 # URLs?
 
-![Difference uri and urls](uri-urls.jpeg)
-source: https://dev.to/flippedcoding/what-is-the-difference-between-a-uri-and-a-url-4455
+![Difference uri and urls](https://res.cloudinary.com/practicaldev/image/fetch/s--lrbx3qNQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j4bka41nypm4do1f3e5b.JPG)
+
 
 # URLs in django
 ##### urls.py
