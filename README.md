@@ -174,6 +174,11 @@ Table namaapp_myProfile
 
 #### melihat models lewat shell
 ---
+jangan lupa untuk memigrasi tabel yang sudah dibuat
+```bash
+python manage.py makemigrations
+python manage.py migrate
+```
 
 membuka shell untuk project django
 ```bash
