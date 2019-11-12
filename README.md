@@ -158,7 +158,7 @@ def profile(request):
 ### models
 ---
 ```python
-from django.models import models
+from django.db import models
 
 class myProfile(models.Model):
     username = models.CharField(max_length=25)
