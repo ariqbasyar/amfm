@@ -226,7 +226,7 @@ class myProfile(models.Model):
     email = models.EmailField(max_length=100)
 
     def __str__(self):
-        return "{}: {}".format(username, email)
+        return "{}: {}".format(self.username, self.email)
 ```
 
 maka melihat query akan lebih mudah
